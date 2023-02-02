@@ -1,4 +1,4 @@
-## Hi there welcome to Bayshore Communication 👋
+## Hi there welcome to Bayshore Communication team 👋
 
 
 
