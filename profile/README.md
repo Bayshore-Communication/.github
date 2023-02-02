@@ -1,11 +1,10 @@
-## Hi there welcome to Bayshore Communication team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+## Hi there welcome to <a href="https://bayshorecommunication.com/" target="blank">Bayshore Communication</a> team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
 🔗 &nbsp;**Connect with us**
 <p align="left">
-<a href="https://bayshorecommunication.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
+<a href="[https://bayshorecommunication.com/](https://www.facebook.com/bayshorecommunication)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/BayshoreCom" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_2504947?term=twitter&page=1&position=10&origin=search&related_id=2504947" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/bayshore-communication/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bayshorecommunication/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAaI96cOP7GGpYhEOPFhu8w" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3938/3938037.png" alt="gautamkrishnar" height="30" width="40" /></a>
